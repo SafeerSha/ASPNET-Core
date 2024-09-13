@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SafeerPS\\Desktop\\My NET\\TodoApi\\TodoApi.csproj": {}
+    "c:\\Users\\SafeerPS\\Desktop\\My NET\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SafeerPS\\Desktop\\My NET\\TodoApi\\TodoApi.csproj": {
+    "c:\\Users\\SafeerPS\\Desktop\\My NET\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SafeerPS\\Desktop\\My NET\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "c:\\Users\\SafeerPS\\Desktop\\My NET\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\SafeerPS\\Desktop\\My NET\\TodoApi\\TodoApi.csproj",
+        "projectPath": "c:\\Users\\SafeerPS\\Desktop\\My NET\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\SafeerPS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SafeerPS\\Desktop\\My NET\\TodoApi\\obj\\",
+        "outputPath": "c:\\Users\\SafeerPS\\Desktop\\My NET\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SafeerPS\\AppData\\Roaming\\NuGet\\NuGet.Config"

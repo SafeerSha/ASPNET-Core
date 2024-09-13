@@ -229,3 +229,4 @@ C:\Users\SafeerPS\Desktop\My NET\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.
 C:\Users\SafeerPS\Desktop\My NET\TodoApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\SafeerPS\Desktop\My NET\TodoApi\bin\Debug\net8.0\Npgsql.dll
 C:\Users\SafeerPS\Desktop\My NET\TodoApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Users\SafeerPS\Desktop\My NET\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
